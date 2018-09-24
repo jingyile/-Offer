@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512797349 source:c:\users\administrator\desktop\算法提高\最长公共子序列\main.cpp
+	<stdio.h>
+	<string.h>
+
